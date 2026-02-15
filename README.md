@@ -1,17 +1,25 @@
-Nothing Phone Image Optimizer Widget
+# Nothing Phone Image Optimizer Widget
 
-A lightweight Nothing Phone widget that helps you instantly convert images to WebP format and resize them directly from your home screen.
+Turn heavy images into fast, web-ready assets directly from your home screen.
 
-Built for developers, designers, and content creators who care about performance and fast-loading assets.
+## Overview
 
-Features
+This widget allows you to instantly convert images to modern **WebP format** and resize them to your preferred dimensions in seconds.  
 
-Convert JPG and PNG images to WebP
+Perfect for developers, designers, and content creators who want optimized visuals without opening complex tools.
 
-Resize images to custom width and height
+## Features
 
-Reduce file size for better web performance
+- ⚡ Convert JPG/PNG to WebP  
+- 📏 Resize images to custom width and height  
+- 🚀 Reduce file size for faster websites  
+- 📱 Quick access directly from your Nothing Phone home screen  
 
-Fast and simple workflow
+## Why Use It?
 
-Accessible directly from your Nothing Phone widget panel
+Optimized images mean:
+
+- Faster website loading speed  
+- Better performance scores  
+- Improved user experience  
+- Smaller file sizes without noticeable quality loss
